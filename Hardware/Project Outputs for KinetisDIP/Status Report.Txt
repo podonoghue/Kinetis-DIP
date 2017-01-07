@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [KinetisDIP.PcbDoc]
+   Generated File[KinetisDIP.TXT]
+   Generated File[KinetisDIP.LDP]
+   Generated File[KinetisDIP.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:11:38 AM On 8/01/2017
