@@ -8,8 +8,8 @@ Refer to the PDFs in the Project Outputs directory
 <a href="https://github.com/podonoghue/usbdm-kinetis/blob/master/Hardware/Project%20Outputs%20for%20KinetisDIP/KinetisDIP.PDF">Main Board</img></a>
 
 
-![An image](https://raw.githubusercontent.com/podonoghue/Kinetis-DIP/blob/master/Hardware/Top.png "Board Image - Bottom")
-![An image](https://raw.githubusercontent.com/podonoghue/Kinetis-DIP/blob/master/Hardware/Bottom.png "Board Image - Bottom")
+![An image](https://github.com/podonoghue/Kinetis-DIP/blob/master/Hardware/Top.png "Board Image - Bottom")
+![An image](https://github.com/podonoghue/Kinetis-DIP/blob/master/Hardware/Bottom.png "Board Image - Bottom")
 
 ====
 PCBs may be ordered from OSH park
