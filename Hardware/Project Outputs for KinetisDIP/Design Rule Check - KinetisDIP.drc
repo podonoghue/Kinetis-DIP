@@ -1,60 +1,60 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\podonoghue\Documents\Development\USBDM\PCB\KinetisDIP\KinetisDIP.PcbDoc
-Date     : 8/01/2017
-Time     : 9:56:41 AM
+PCB File : C:\Users\podonoghue\Documents\Development\PCB\Kinetis-DIP\Hardware\KinetisDIP.PcbDoc
+Date     : 21/01/2017
+Time     : 1:28:18 PM
 
 WARNING: 5 Net Ties failed verification
-   SMT Small Component S4-Link3Closed (1071mil,512mil) on Solder Side, SMT Small Component S4-Link3Closed (1071mil,512mil) on Solder Side, has isolated copper
-   SMT Small Component S5-Link3Closed (851mil,511mil) on Solder Side, SMT Small Component S5-Link3Closed (851mil,511mil) on Solder Side, has isolated copper
-   SMT Small Component S2-Link3Closed (653mil,333mil) on Solder Side, SMT Small Component S2-Link3Closed (653mil,333mil) on Solder Side, has isolated copper
-   SMT Small Component S3-Link3Closed (683mil,480mil) on Solder Side, SMT Small Component S3-Link3Closed (683mil,480mil) on Solder Side, has isolated copper
    SMT Small Component S6-Link3Closed (940mil,356mil) on Component Side, SMT Small Component S6-Link3Closed (940mil,356mil) on Component Side, has isolated copper
+   SMT Small Component S3-Link3Closed (683mil,480mil) on Solder Side, SMT Small Component S3-Link3Closed (683mil,480mil) on Solder Side, has isolated copper
+   SMT Small Component S2-Link3Closed (653mil,333mil) on Solder Side, SMT Small Component S2-Link3Closed (653mil,333mil) on Solder Side, has isolated copper
+   SMT Small Component S5-Link3Closed (885mil,494mil) on Solder Side, SMT Small Component S5-Link3Closed (885mil,494mil) on Solder Side, has isolated copper
+   SMT Small Component S4-Link3Closed (1071mil,494mil) on Solder Side, SMT Small Component S4-Link3Closed (1071mil,494mil) on Solder Side, has isolated copper
 
-Processing Rule : Clearance Constraint (Gap=7mil) (InPoly),(All)
-Rule Violations :0
-
-Processing Rule : Minimum Annular Ring (Minimum=5.5mil) (All)
-Rule Violations :0
-
-Processing Rule : Room KinetisDIP (Bounding Region = (1480mil, 1775mil, 2945mil, 2510mil) (InComponentClass('KinetisDIP'))
-Rule Violations :0
-
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
-Rule Violations :0
-
-Processing Rule : Silk to Silk (Clearance=5mil) (All),(All)
-Rule Violations :0
-
-Processing Rule : Silk To Solder Mask (Clearance=5mil) (IsPad),(All)
-Rule Violations :0
-
-Processing Rule : Minimum Solder Mask Sliver (Gap=4mil) (Disabled)(All),(All)
-Rule Violations :0
-
-Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
-Rule Violations :0
-
-Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
-Rule Violations :0
-
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=6mil) (Max=20mil) (Preferred=6mil) (All)
-Rule Violations :0
-
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
 
-Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=20mil) (Preferred=6mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=10mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=4mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=5mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Room KinetisDIP (Bounding Region = (1480mil, 1775mil, 2945mil, 2510mil) (InComponentClass('KinetisDIP'))
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=4mil) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7mil) (InPoly),(All)
 Rule Violations :0
 
 
 Violations Detected : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
